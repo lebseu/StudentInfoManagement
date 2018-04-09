@@ -1,4 +1,4 @@
-# Student Data Manager
+# Introduction
 This is a simple servlet app doing CRUD operations in XML as database.
 
 # Screenshots
